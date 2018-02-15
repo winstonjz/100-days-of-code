@@ -5,6 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Edited coincore UI with Bulma CSS Framework to employ using Hero headers.
 
+Going to save colors in the backend for each coin display on the front end. Randomly generated colors will cause confusion.
 ### R1D2
